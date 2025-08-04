@@ -1,5 +1,5 @@
-c tranformet
-senetnce- transformer
-pinecone
-langchain
+ctranformers==0.2.5
+senetnce-transformers==2.2.2
+pinecone-client
+langchain==0.0.225
 flask
