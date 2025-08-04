@@ -1,0 +1,5 @@
+c tranformet
+senetnce- transformer
+pinecone
+langchain
+flask
