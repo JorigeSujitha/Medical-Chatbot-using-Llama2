@@ -205,3 +205,8 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+
+
+
+data_model = model/models--TheBloke--Llama-2-7B-Chat-GGML

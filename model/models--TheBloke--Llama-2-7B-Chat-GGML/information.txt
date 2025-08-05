@@ -1,0 +1,5 @@
+C:\Users\91910\Medical-Chatbot-using-Llama2\data
+
+pinecone key = pcsk_Mpb8x_72V3vtC9ay1U1JmCjpYh9ZZtxTXBwEzK537neXq2RuBGrSCvgMkwED5oGEPWxTF
+pinecone index = 
+chatbotAPIKey = pcsk_2tKJ22_BNycK3cvDUw2QPETH5vjrFLH1urzRzj1ydCMxTv2HAZKmRYjVsDWenfFpfXm9A7
