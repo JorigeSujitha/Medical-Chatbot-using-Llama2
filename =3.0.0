@@ -1,0 +1,18 @@
+Collecting pinecone-client
+  Using cached pinecone_client-6.0.0-py3-none-any.whl.metadata (3.4 kB)
+Requirement already satisfied: certifi>=2019.11.17 in c:\users\91910\appdata\local\packages\pythonsoftwarefoundation.python.3.9_qbz5n2kfra8p0\localcache\local-packages\python39\site-packages (from pinecone-client) (2025.8.3)
+Collecting pinecone-plugin-interface<0.0.8,>=0.0.7 (from pinecone-client)
+  Using cached pinecone_plugin_interface-0.0.7-py3-none-any.whl.metadata (1.2 kB)
+Collecting python-dateutil>=2.5.3 (from pinecone-client)
+  Using cached python_dateutil-2.9.0.post0-py2.py3-none-any.whl.metadata (8.4 kB)
+Requirement already satisfied: typing-extensions>=3.7.4 in c:\users\91910\appdata\local\packages\pythonsoftwarefoundation.python.3.9_qbz5n2kfra8p0\localcache\local-packages\python39\site-packages (from pinecone-client) (4.14.1)
+Requirement already satisfied: urllib3>=1.26.0 in c:\users\91910\appdata\local\packages\pythonsoftwarefoundation.python.3.9_qbz5n2kfra8p0\localcache\local-packages\python39\site-packages (from pinecone-client) (2.5.0)
+Collecting six>=1.5 (from python-dateutil>=2.5.3->pinecone-client)
+  Using cached six-1.17.0-py2.py3-none-any.whl.metadata (1.7 kB)
+Using cached pinecone_client-6.0.0-py3-none-any.whl (6.7 kB)
+Using cached pinecone_plugin_interface-0.0.7-py3-none-any.whl (6.2 kB)
+Using cached python_dateutil-2.9.0.post0-py2.py3-none-any.whl (229 kB)
+Using cached six-1.17.0-py2.py3-none-any.whl (11 kB)
+Installing collected packages: six, pinecone-plugin-interface, python-dateutil, pinecone-client
+
+Successfully installed pinecone-client-6.0.0 pinecone-plugin-interface-0.0.7 python-dateutil-2.9.0.post0 six-1.17.0
