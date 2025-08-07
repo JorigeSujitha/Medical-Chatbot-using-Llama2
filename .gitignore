@@ -215,4 +215,4 @@ data_model = model/models--TheBloke--Llama-2-7B-Chat-GGML
 
 pinecone key = pcsk_Mpb8x_72V3vtC9ay1U1JmCjpYh9ZZtxTXBwEzK537neXq2RuBGrSCvgMkwED5oGEPWxTF
 
-chatbotAPIKey = pcsk_2tKJ22_BNycK3cvDUw2QPETH5vjrFLH1urzRzj1ydCMxTv2HAZKmRYjVsDWenfFpfXm9A7
+chatbotAPIKey = pcsk_2tKJ22_BNycK3cvDUw2QPETH5vjrFLH1urzRzj1ydCMxTv2HAZKmRYjVsDWenfFpfXm9A7model/
